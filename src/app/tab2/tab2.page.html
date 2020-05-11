@@ -13,11 +13,10 @@
     </ion-toolbar>
   </ion-header>
 
-  <app-explore-container name="Photo Gallery">
+  <app-explore-container name="Photo Gallery">  </app-explore-container>
   <ion-fab vertical="bottom" horizontal="center" slot="fixed">
-  <ion-fab-button>
+    <ion-fab-button (click)="photoService.addNewToGallery()">
     <ion-icon name="camera"></ion-icon>
   </ion-fab-button>
   </ion-fab>
-  </app-explore-container>
 </ion-content>
