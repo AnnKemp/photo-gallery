@@ -1,4 +1,4 @@
-# photo-gallery
+# photo-gallery: installation guide
 
 First Angular app - test project: photo gallery
 
@@ -91,3 +91,6 @@ git push -u origin master
 
 Now test if your app is online and wait for my further instructions to guide you through the process of building this app.
 If you got so far on your own, I should say: well done! :) and see you online! ;) 
+
+
+
