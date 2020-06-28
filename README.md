@@ -108,4 +108,9 @@ Now test if your app is online ('git status' will inform you if your app is well
 If you got so far on your own, I should say: well done! :) and see you in the classroom or online! ;) 
 
 
+N.B.: A link to the finished code ready for deployment: https://github.com/AnnKemp/photo-project .
+In the pdf which I'll will give/send to you, you'll find how to deploy your app on Mac and Android.
+Good luck! ;)
+
+
 
