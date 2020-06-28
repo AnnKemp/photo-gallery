@@ -90,7 +90,7 @@ git remote add origin git@github.com:YourName/photo-gallery.git
 git push -u origin master
 
 Now test if your app is online and wait for my further instructions to guide you through the process of building this app.
-If you got so far on your own, I should say: well done! :) and see you online! ;) 
+If you got so far on your own, I should say: well done! :) and see you in the classroom or online! ;) 
 
 
 
