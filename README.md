@@ -63,7 +63,13 @@ nvm alias default lts/*
 
 New terminals will now use the nvm-controlled NodeJS. To verify:
 
-node -v  # will print the version installed abovewhich npm  # will print a path somewhere within the ~/.nvm folder
+node -v  #
+
+will print the version installed above 
+
+which npm  #
+
+will print a path somewhere within the ~/.nvm folder
 Global packages will now be installed in the ~/.nvm directory, so permission errors should no longer occur as long as npm is used without sudo.
 
 ## Create an App
