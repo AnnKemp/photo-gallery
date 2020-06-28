@@ -47,7 +47,8 @@ The best way to avoid permission issues is to reinstall NodeJS and npm using a n
 
 Install nvm.
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+'   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash    '   
+
 New terminals will now use nvm. To verify, open a new terminal and run the following. If something prints, the installation was successful.
 
 command -v nvm
