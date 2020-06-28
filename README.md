@@ -60,6 +60,7 @@ nvm install --lts
 Set the newly installed NodeJS as the default environment:
 
 nvm alias default lts/*
+
 New terminals will now use the nvm-controlled NodeJS. To verify:
 
 node -v  # will print the version installed abovewhich npm  # will print a path somewhere within the ~/.nvm folder
