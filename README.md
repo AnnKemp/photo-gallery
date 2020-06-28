@@ -52,9 +52,11 @@ Install nvm.
 New terminals will now use nvm. To verify, open a new terminal and run the following. If something prints, the installation was successful.
 
 command -v nvm
+
 To download and install the latest LTS release of NodeJS, run:
 
 nvm install --lts
+
 Set the newly installed NodeJS as the default environment:
 
 nvm alias default lts/*
