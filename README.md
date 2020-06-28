@@ -102,7 +102,9 @@ git push -u origin master
 
 git status
 
-Now test if your app is online and wait for my further instructions to guide you through the process of building this app.
+ionic serve
+
+Now test if your app is online ('git status' will inform you if your app is well functioning on git and 'ionic serve' will display a test version of the app locally in your browser window) and wait for my further instructions to guide you through the process of building this app.
 If you got so far on your own, I should say: well done! :) and see you in the classroom or online! ;) 
 
 
